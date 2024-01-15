@@ -17,6 +17,8 @@ carousels:
 *   Play backups of physical games
 *   Dual boot to Android to run Android apps and games
 
+
+
 # Prices
 
 | Model       | Chip      | Price  |
@@ -25,7 +27,7 @@ carousels:
 | Patched V1  | Instinct  | `$125` |
 | Lite        | Instinct  | `$125` |
 | OLED        | Instinct  | `$150` |
-| Postage     |           | ` $20` |
+| Postage     |           | `$20` |
 
 # Links
 [Items for sale on FB Marketplace](https://www.facebook.com/marketplace/profile/527145129)
@@ -37,30 +39,6 @@ carousels:
 [Link to SD card files](https://github.com/sthetix/HATS/releases/latest)
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
-
-{% include carousel.html height="50" unit="%" duration="7" images=carousel_images %}
-
-{% include carousel.html height="50" unit="%" duration="7" images=carousel_images %}
-
-carousel_images: [./assets/images/XTW70688_1.jpg, ./assets/images/XTW70688_2.jpg, ./assets/images/XTW70688_3.jpg]
-
-
-
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
-
-{% include carousel.html height="50" unit="%" duration="7" images=carousel_images %}
-
-{% include carousel.html height="50" unit="%" duration="7" images=carousel_images %}
-
-<img src="./assets/images/XTW70688_1.jpg" width="200" height="auto" display="inline" />
-<img src="./assets/images/XTW70688_2.jpg" width="200" height="auto" display="inline" />
-<img src="./assets/images/XTW70688_3.jpg" width="200" height="auto" display="inline" />
-<img src="./assets/images/XTW70688_4.jpg" width="200" height="auto" display="inline" />
-<img src="./assets/images/XTW70688_5.jpg" width="200" height="auto" display="inline" />
 
 {::comment}
 

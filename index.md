@@ -24,6 +24,13 @@ layout: default
 
 {% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
+carousels:
+  - images: 
+    - image: ./assets/images/XTW70688_1.jpg
+    - image: ./assets/images/XTW70688_2.jpg
+    - image: ./assets/images/XTW70688_3.jpg
+    - image: ./assets/images/XTW70688_4.jpg
+    - image: ./assets/images/XTW70688_5.jpg
 <!---<img src="./docs/assets/images/XTW70688_1.jpg" width="400" height="auto" />
 <img src="./docs/assets/images/XTW70688_2.jpg" width="400" height="auto" />
 <img src="./docs/assets/images/XTW70688_3.jpg" width="400" height="auto" />

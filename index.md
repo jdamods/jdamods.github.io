@@ -18,7 +18,7 @@ layout: default
 
 [Link to SD card files](https://github.com/sthetix/HATS/releases/latest)
 
-![SwitchPic1](/jdamods.github.io/docs/assets/images/PXL_20231218_121304512.jpg)
+![SwitchPic1](/jdamods.github.io/main/docs/assets/images/PXL_20231218_121304512.jpg)
 
 {::comment}
 

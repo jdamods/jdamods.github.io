@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<script src="./assets/js/carousel.js" ></script>
-
 # Switch modding info
 
 # What can a modded console do?
@@ -22,27 +20,9 @@ layout: default
 
 [Link to SD card files](https://github.com/sthetix/HATS/releases/latest)
 
-<section id="image-carousel" class="splide" aria-label="Beautiful Images">
-  <div class="splide__track">
-		<ul class="splide__list">
-			<li class="splide__slide">
-				<img src="./assets/images/XTW70688_1.jpg" alt="">
-			</li>
-			<li class="splide__slide">
-				<img src="./assets/images/XTW70688_2.jpg" alt="">
-			</li>
-			<li class="splide__slide">
-				<img src="./assets/images/XTW70688_3.jpg" alt="">
-			</li>
-			<li class="splide__slide">
-				<img src="./assets/images/XTW70688_4.jpg" alt="">
-			</li>
-			<li class="splide__slide">
-				<img src="./assets/images/XTW70688_5.jpg" alt="">
-			</li>
-		</ul>
-  </div>
-</section>
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
 <!---<img src="./docs/assets/images/XTW70688_1.jpg" width="400" height="auto" />
 <img src="./docs/assets/images/XTW70688_2.jpg" width="400" height="auto" />

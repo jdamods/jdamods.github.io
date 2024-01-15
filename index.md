@@ -18,7 +18,11 @@ layout: default
 
 [Link to SD card files](https://github.com/sthetix/HATS/releases/latest)
 
-![SwitchPic1](/jdamods.github.io/main/docs/assets/images/PXL_20231218_121304512.jpg)
+<img src="./docs/assets/images/PXL_20231218_121304512.jpg" width="400" height="auto" />
+<img src="./docs/assets/images/PXL_20231218_121315064.jpg" width="400" height="auto" />
+<img src="./docs/assets/images/PXL_20231218_121344219.jpg" width="400" height="auto" />
+<img src="./docs/assets/images/PXL_20231218_121534072.MP.jpg" width="400" height="auto" />
+<img src="./docs/assets/images/PXL_20231218_121605592.jpg" width="400" height="auto" />
 
 {::comment}
 
@@ -103,14 +107,6 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.

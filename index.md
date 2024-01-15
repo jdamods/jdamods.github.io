@@ -1,16 +1,26 @@
 ---
 layout: default
 ---
+
+# What can a modded console do?
+
+*   Run homebrew applications
+*   Stream games from your PC
+*   Play backups of physical games
+*   Dual boot to Android to run Android apps and games
+
+# Links
+[Items for sale on FB Marketplace](https://www.facebook.com/marketplace/profile/527145129)
+
+[Items for sale on eBay](https://www.ebay.com.au/sch/i.html?_ssn=jimnastic89)
+
+[Instagram](https://www.instagram.com/jdamods/)
+
+[Link to SD card files](https://github.com/sthetix/HATS/releases/latest)
+
 {::comment}
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 

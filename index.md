@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Switch modding info
+
 # What can a modded console do?
 
 *   Run homebrew applications
@@ -18,11 +20,11 @@ layout: default
 
 [Link to SD card files](https://github.com/sthetix/HATS/releases/latest)
 
-<img src="./docs/assets/images/PXL_20231218_121304512.jpg" width="400" height="auto" />
-<img src="./docs/assets/images/PXL_20231218_121315064.jpg" width="400" height="auto" />
-<img src="./docs/assets/images/PXL_20231218_121344219.jpg" width="400" height="auto" />
-<img src="./docs/assets/images/PXL_20231218_121534072.MP.jpg" width="400" height="auto" />
-<img src="./docs/assets/images/PXL_20231218_121605592.jpg" width="400" height="auto" />
+<img src="./docs/assets/images/XTW70688_1.jpg" width="400" height="auto" />
+<img src="./docs/assets/images/XTW70688_2.jpg" width="400" height="auto" />
+<img src="./docs/assets/images/XTW70688_3.jpg" width="400" height="auto" />
+<img src="./docs/assets/images/XTW70688_4.jpg" width="400" height="auto" />
+<img src="./docs/assets/images/XTW70688_5.jpg" width="400" height="auto" />
 
 {::comment}
 

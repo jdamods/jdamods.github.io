@@ -11,6 +11,16 @@ layout: default
 *   Play backups of physical games
 *   Dual boot to Android to run Android apps and games
 
+# Prices
+
+| Model       | Chip      | Price  |
+|:------------|:----------|:-------|
+| Unpatched   | RCMx86    | `$100` |
+| Patched V1  | Instinct  | `$125` |
+| Lite        | Instinct  | `$125` |
+| OLED        | Instinct  | `$150` |
+| Postage     |           | ` $20` |
+
 # Links
 [Items for sale on FB Marketplace](https://www.facebook.com/marketplace/profile/527145129)
 
@@ -20,10 +30,6 @@ layout: default
 
 [Link to SD card files](https://github.com/sthetix/HATS/releases/latest)
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
-
 carousels:
   - images: 
     - image: ./assets/images/XTW70688_1.jpg
@@ -31,6 +37,8 @@ carousels:
     - image: ./assets/images/XTW70688_3.jpg
     - image: ./assets/images/XTW70688_4.jpg
     - image: ./assets/images/XTW70688_5.jpg
+    
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 <!---<img src="./docs/assets/images/XTW70688_1.jpg" width="400" height="auto" />
 <img src="./docs/assets/images/XTW70688_2.jpg" width="400" height="auto" />
 <img src="./docs/assets/images/XTW70688_3.jpg" width="400" height="auto" />
@@ -42,7 +50,7 @@ carousels:
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is a normal paragraph following a header.
 
 ## Header 2
 
@@ -67,37 +75,15 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
 ##### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
 ### There's a horizontal rule below this.
 
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
 ### And an ordered list:
 

@@ -1,6 +1,13 @@
 ---
 layout: default
 title: jdamods
+carousels:
+  - images: 
+    - image: ./assets/images/XTW70688_1.jpg
+    - image: ./assets/images/XTW70688_2.jpg
+    - image: ./assets/images/XTW70688_3.jpg
+    - image: ./assets/images/XTW70688_4.jpg
+    - image: ./assets/images/XTW70688_5.jpg
 ---
 
 # What can a modded console do?
@@ -39,13 +46,7 @@ title: jdamods
 
 carousel_images: [./assets/images/XTW70688_1.jpg, ./assets/images/XTW70688_2.jpg, ./assets/images/XTW70688_3.jpg]
 
-carousels:
-  - images: 
-    - image: ./assets/images/XTW70688_1.jpg
-    - image: ./assets/images/XTW70688_2.jpg
-    - image: ./assets/images/XTW70688_3.jpg
-    - image: ./assets/images/XTW70688_4.jpg
-    - image: ./assets/images/XTW70688_5.jpg
+
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 

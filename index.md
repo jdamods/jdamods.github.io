@@ -8,6 +8,10 @@ carousels:
     - image: ./assets/images/XTW70688_3.jpg
     - image: ./assets/images/XTW70688_4.jpg
     - image: ./assets/images/XTW70688_5.jpg
+  - images:
+    - image: ./assets/images/Ad_frontOn.jpg
+    - image: ./assets/images/Ad_frontOff.jpg
+    - image: ./assets/images/Ad_back.jpg
 ---
 
 # What can a modded console do?
@@ -15,19 +19,35 @@ carousels:
 *   Run homebrew applications
 *   Stream games from your PC
 *   Play backups of physical games
+*   Overclocking
+*   Use controllers from other consoles, such as PS5 and Xbox Series S/X controllers
 *   Dual boot to Android to run Android apps and games
 
 
 
 # Prices
 
-| Model       | Chip      | Price  |
+| Model       | Chip              | Price  |
 |:------------|:----------|:-------|
-| Unpatched   | RCMx86    | `$100` |
-| Patched V1  | Instinct  | `$125` |
-| Lite        | Instinct  | `$125` |
-| OLED        | Instinct  | `$150` |
-| Postage     |           | `$20` |
+| Unpatched   | RCMx86            | $120 |
+| Patched V1  | Instinct          | $150 |
+| Lite        | Instinct/Picofly  | $150 |
+| OLED        | Instinct          | $170 |
+| Postage     |                   | $20  |
+
+# Consoles for sale
+
+$625 OLED - Complete with all accessories in box
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+$350 Lite Grey - Comes with original charger
+
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
+
+*Consoles do not include SD card unless otherwise specified
+
+
 
 # Links
 [Items for sale on FB Marketplace](https://www.facebook.com/marketplace/profile/527145129)
@@ -36,91 +56,6 @@ carousels:
 
 [Instagram](https://www.instagram.com/jdamods/)
 
+[Check if your V1 console is patched](https://damota.me/ssnc/checker/)
+
 [Link to SD card files](https://github.com/sthetix/HATS/releases/latest)
-
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-{::comment}
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-This is a normal paragraph following a header.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-### There's a horizontal rule below this.
-
-* * *
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-{:/comment}

@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
 title: jdamods
 description: Information regarding items for sale, SD setup, etc
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme

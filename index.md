@@ -26,6 +26,13 @@ Prices include mod chip and installation
 | Lite           | Instinct/Picofly  | $150 |
 | OLED           | Instinct          | $170 |
 
+### Currently available modded consoles
+
+| Model       | Price |
+|:------------|:------|
+| OLED        | $625  |
+| Lite - Grey | $350  |
+
 Postage for installs or complete consoles is $20
 
 ⚠️ Payment by cash or PayID only. Nothing will be sent until full payment is received.
@@ -46,7 +53,7 @@ Postage for installs or complete consoles is $20
 
 ### Post install tips
 
-* Boot into offical firmware
+* To boot into offical firmware
   * power on while holding Vol+
   * From the bootloader/Hekate screen, select **Reboot** and then **OFW**
 
@@ -58,13 +65,6 @@ Postage for installs or complete consoles is $20
 * To check your custom firmware version, from the Switch home screen go to **System Settings** > **System**, where you'll find the current firmware and Atmosphere version numbers
 
 # Consoles for sale
-
-$625 - Switch OLED
-* White
-* Like new condition
-* Complete with all accessories in box
-
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 $350 - Switch Lite
 * Grey

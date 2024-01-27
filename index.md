@@ -64,16 +64,16 @@ Postage for installs or complete consoles is $20
 
 * To check your custom firmware version, from the Switch home screen go to **System Settings** > **System**, where you'll find the current firmware and Atmosphere version numbers
 
-# Consoles for sale
+<!--# Consoles for sale
 
 $350 - Switch Lite
 * Grey
 * Good condition - some minor marks and scratches, about what you'd expect from a well looked after used console
 * Comes with original charger
 
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
+% include carousel.html height="50" unit="%" duration="7" number="2" %
 
-*Consoles do not include SD card
+*Consoles do not include SD card-->
 
 # Frequently asked questions
 

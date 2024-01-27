@@ -28,10 +28,10 @@ Prices include mod chip and installation
 
 ### Currently available modded consoles
 
-| Model       | Price |
-|:------------|:------|
-| OLED        | $625  |
-| Lite - Grey | $350  |
+| Model        | Price |
+|:-------------|:------|
+| [Lite - Grey](https://www.facebook.com/marketplace/item/2345580045832363/)  | $350  |
+| [Lite - Coral](https://www.facebook.com/marketplace/item/920750356319653/) | $320  |
 
 Postage for installs or complete consoles is $20
 

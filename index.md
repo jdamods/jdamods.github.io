@@ -54,7 +54,7 @@ Postage for installs or complete consoles is $20
 ### Post install tips
 
 * To boot into offical firmware
-  * power on while holding Vol+
+  * Power on while holding Vol+
   * From the bootloader/Hekate screen, select **Reboot** and then **OFW**
 
 * To open the homebrew menu:
@@ -98,4 +98,4 @@ You don't, I'm just some guy on the internet saying you should send your several
 
 [Check if your V1 console is patched](https://damota.me/ssnc/checker/)
 
-[Link to SD card files](https://github.com/sthetix/HATS/releases/latest)
+[Test Page](/emunand)

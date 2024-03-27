@@ -16,11 +16,18 @@
 
 ## SD File
 
+<details>
+    <!--<summary> SD File</summary>-->
+
 1. Wait approximately 15-30 minutes for your sysnand to be imaged
 
     ![](/assets/images/emunand/nyx20230203_133512.png)
 
+</details>
+
 ## SD Partition
+
+<details>
 
 **BACK UP YOUR SD CARD BEFORE DOING THIS**
 
@@ -35,6 +42,8 @@
 2. You'll be asked to confirm by selecting **Start** and you'll then have to confirm again by pressing the **Power** button
 
     ![](/assets/images/emunand/nyx20230203_133238.png)
+
+</details>
 
 ## Finishing setup
 

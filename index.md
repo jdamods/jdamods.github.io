@@ -90,12 +90,12 @@ $350 - Switch Lite
 
 There's always a risk using a modified console that you will be banned if you use it to play online, and there is no way to 100% prevent it from happening. However there are ways to make it _less_ likely (emummc, incognito), but setting that up is outside of the scope of what I do with a standard install
 
-### How do I know I'm not going to get scammed?
+<!--### How do I know I'm not going to get scammed?
 
-You don't, I'm just some guy on the internet saying you should send your several hundred dollar gaming console to me. Unfortunately there's no good way for me to prove that I won't do that, but... I won't do that. The only "proof" I can offer is that my eBay profile (linked below) has plenty of positive feedback.
+You don't, I'm just some guy on the internet saying you should send your several hundred dollar gaming console to me. Unfortunately there's no good way for me to prove that I won't do that, but... I won't do that. The only "proof" I can offer is that my eBay profile (linked below) has plenty of positive feedback.-->
 
 # Links
 
 [Check if your V1 console is patched](https://damota.me/ssnc/checker/)
 
-[Test Page](/emunand)
+[emuNAND setup guide](/emunand)
